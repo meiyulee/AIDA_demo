@@ -6,7 +6,7 @@
 
 雖然我擁有超過20年的經濟學理論學習經驗，使用Mathematica、Excel、Stata、SPSS等軟體的使用經驗，但我從2012年起才開始與C語言工程師合作，展開數字模擬與分析的研發、研究與應用。
 
-我向所有數據分析師推薦AI數據分析。以下是學習MathAI for numerical modelling 的一些原因：
+我向所有數據分析師推薦AI數據分析。以下是學習 [MathAI for numerical modelling](https://github.com/meiyulee/MathAI) 的一些原因：
 
 - **專注** － 強化個人專業知識應用。MathAI軟體節約你的時間，幫助你專注在專業的知識學習與解讀數據分析。讓使用者花更多時間進行數據分析結果解讀與專業知識印證上！
 
