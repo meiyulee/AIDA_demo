@@ -1,3 +1,5 @@
+<div align=center><img src="https://github.com/meiyulee/AIDA_demo/blob/main/logo.jpg" width=20%></div>
+
 用於財經數據的AI數據分析演示集合。我將這些演示用於
 
 1. 推廣AI數據分析的演練。
